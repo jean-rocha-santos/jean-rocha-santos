@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-rocha-santos&show_icons=true&theme=darkblack)
+![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-rocha-santos&show_icons=true&theme=vision-friendly-dark)
 
 ### Tecnologias que uso no meu dia
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
