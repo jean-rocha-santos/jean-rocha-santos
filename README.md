@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @jean-rocha-santos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou o @jean-rocha-santos
+- Estudante de ADS 💻
+
 
 ![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-rocha-santos&show_icons=true&theme=vision-friendly-dark)
 
@@ -11,3 +9,5 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 
+
+😉 Entre em contato comigo: jean.santos@sptech.school
