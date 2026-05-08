@@ -19,4 +19,4 @@
 
 
 
-😉 Entre em contato comigo: jean.santos@sptech.school
+😉 Entre em contato comigo: jean.rochasantos1532@gmail.com
