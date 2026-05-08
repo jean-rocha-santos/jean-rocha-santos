@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou o @jean-rocha-santos
 - Estudante de ADS 💻
 
-![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-rocha-santos&show_icons=true&theme=vision-friendly-dark)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-rocha-santos&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 
 
